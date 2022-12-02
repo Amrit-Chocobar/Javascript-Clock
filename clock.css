@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+.clock{
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    color: aqua;
+    font-size: 80px;
+    letter-spacing: 6px;
+    /* border: 1px solid white; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
